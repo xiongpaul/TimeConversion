@@ -1,0 +1,6 @@
+D:\VIsualStudioProjects\PXAssignment3\PXAssignment3C\bin\Debug\PXAssignment3C.exe.config
+D:\VIsualStudioProjects\PXAssignment3\PXAssignment3C\bin\Debug\PXAssignment3C.exe
+D:\VIsualStudioProjects\PXAssignment3\PXAssignment3C\bin\Debug\PXAssignment3C.pdb
+D:\VIsualStudioProjects\PXAssignment3\PXAssignment3C\obj\Debug\PXAssignment3C.csprojResolveAssemblyReference.cache
+D:\VIsualStudioProjects\PXAssignment3\PXAssignment3C\obj\Debug\PXAssignment3C.exe
+D:\VIsualStudioProjects\PXAssignment3\PXAssignment3C\obj\Debug\PXAssignment3C.pdb
